@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Color-maker/static/css/main.1ec16eed.chunk.css",
+    "main.js": "/Color-maker/static/js/main.5bd1422a.chunk.js",
+    "main.js.map": "/Color-maker/static/js/main.5bd1422a.chunk.js.map",
+    "runtime-main.js": "/Color-maker/static/js/runtime-main.5d296de7.js",
+    "runtime-main.js.map": "/Color-maker/static/js/runtime-main.5d296de7.js.map",
+    "static/css/2.ed590494.chunk.css": "/Color-maker/static/css/2.ed590494.chunk.css",
+    "static/js/2.cf22911c.chunk.js": "/Color-maker/static/js/2.cf22911c.chunk.js",
+    "static/js/2.cf22911c.chunk.js.map": "/Color-maker/static/js/2.cf22911c.chunk.js.map",
+    "index.html": "/Color-maker/index.html",
+    "precache-manifest.a5d964e2ca3c0aee7eb5bb3b8547d77b.js": "/Color-maker/precache-manifest.a5d964e2ca3c0aee7eb5bb3b8547d77b.js",
+    "service-worker.js": "/Color-maker/service-worker.js",
+    "static/css/2.ed590494.chunk.css.map": "/Color-maker/static/css/2.ed590494.chunk.css.map",
+    "static/css/main.1ec16eed.chunk.css.map": "/Color-maker/static/css/main.1ec16eed.chunk.css.map",
+    "static/js/2.cf22911c.chunk.js.LICENSE.txt": "/Color-maker/static/js/2.cf22911c.chunk.js.LICENSE.txt",
+    "static/media/bg.svg": "/Color-maker/static/media/bg.77428cd4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d296de7.js",
+    "static/css/2.ed590494.chunk.css",
+    "static/js/2.cf22911c.chunk.js",
+    "static/css/main.1ec16eed.chunk.css",
+    "static/js/main.5bd1422a.chunk.js"
+  ]
+}
